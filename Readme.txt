@@ -2,8 +2,8 @@ Hello !!!!!,
 
 How its works?????
 
-you have to get you api_id and api_hash from https://my.telegram.org here!
+you have to get you api_id and api_hash from https:// instagram.com here!
 
-Basically it scrapes member from group where the logined id is admin and it creates a .csv file.
-And the adder reads .csv file and add member to the target group.
+Basically it insta follower from id where the logined id is admin and it creates a .csv file.
+And the adder reads .csv file and add follower to the target insta id.
 
